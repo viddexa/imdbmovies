@@ -1,4 +1,4 @@
-# moviedb 
+# imdbmovies 
 
 `imdbmovies` is a python wrapper to represent the [IMDB](https://www.imdb.com) API. It helps you to get files i.e. Movies/TV-Series information from IMDB by scraping.
 
